@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head>
+<title>
+Hi
+</title>
+ <style>#div 1{color:black;border:5px;}#div 1:hover{color:white;border:5px;background-color:white;}
+<div class="div 1">
+<a href="https://web.whatsapp.com/"> Hi
+</head>
+<body>
+</body>
+</html>
